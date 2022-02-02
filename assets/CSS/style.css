@@ -1,0 +1,13 @@
+/*css reset start*/
+
+*{
+    margin: 0px;
+    padding: 0Px;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+/*css reset end*/
